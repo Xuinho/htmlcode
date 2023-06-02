@@ -1,0 +1,89 @@
+PAGINA 1 
+-----------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PIVETÃO NEWS</title>
+
+</head>
+<body style=" background-color: black;">
+
+    <hr></hr>
+    <h1 style="background-color: antiquewhite; font-family: 'Franklin Gothic Medium;"><center>PIVETÃO NEWS</center></h1>
+    <hr></hr>
+
+    <p style="color: aliceblue; font-size: 25px;">Esse é um portal de noticia desenvolvido por um aluno do IF com o intuito de aprender mais sobre HTML. <br> Confira no link abaixo as noticias do momento.</p>
+
+    <h1 style="font-size: 50px;"></h1>
+    <h2 style="color: aliceblue;">Seu portal de noticias é aqui! <br> Confira as noticias abaixo.</h2>
+
+    <a style="color: aqua; font-size: 20px;" target="_blank" href="pagina2.html">PORTAL CLIQUE AQUI</a>
+
+    <h1 style="font-size: 100px;"></h1>
+
+</body>
+</html>
+------------------------------------------------
+
+PAGINA 2
+------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina de Noticia</title>
+</head>
+<body style="background-color: rgb(0, 0, 0);">
+    
+    <h1 style="color: aliceblue; background-color: blueviolet;">Noticias do momento:</h1>
+    <ol>
+        <a style="color: aliceblue;" href="https://g1.globo.com/planeta-bizarro/noticia/2019/09/04/gato-e-preso-suspeito-de-furto-nos-eua.ghtml"><li>Gato é 'preso' suspeito de furto nos EUA. </li></a>
+        <a style="color: aliceblue;" href="https://g1.globo.com/planeta-bizarro/noticia/2019/09/02/policial-de-transito-de-cartolina-e-furtado-na-escocia.ghtml"><li>Policial de trânsito de cartolina é furtado na Escócia. </li></a>
+        <a style="color: aliceblue;" href="https://g1.globo.com/planeta-bizarro/noticia/2019/07/05/policia-dos-eua-busca-suspeito-que-postou-selfie-no-stories-da-vitima-usando-celular-roubado.ghtml"><li>Polícia dos EUA busca suspeito que postou selfie no stories da vítima usando celular roubado.
+        </li></a>
+    </ol>
+
+    <h2 style="color: white">Confira logo abaixo:</h2>
+
+    </style>
+    <hr>
+    <h1 style="background: rgb(255, 255, 255);"><center>Portal de Noticias</center></h1>
+    <hr>
+
+    <h1></h1>
+    <a target="_blank" href="https://g1.globo.com/planeta-bizarro/noticia/2019/09/04/gato-e-preso-suspeito-de-furto-nos-eua.ghtml"> <img src="https://s2-g1.glbimg.com/9CA_0YJ7llAixTf8koVJVjyzu6Q=/0x0:1700x2267/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/B/q/3X8o6MT8AhXgnuxP01bQ/gato.jpg" alt="GATO FURTANDO..." width="300" height="280"> </a>
+    <p style="color: aqua; font-size: small;">clique na imagem para ler a noticia</p>
+    <h4 style="background-color: aliceblue; font-size: 20px;">Gato é 'preso' suspeito de furto nos EUA.</h4>
+<hr>
+
+<h1></h1>
+    <a target="_blank" href="https://g1.globo.com/planeta-bizarro/noticia/2019/09/02/policial-de-transito-de-cartolina-e-furtado-na-escocia.ghtml"> <img src="https://s2-g1.glbimg.com/ZyHt-u-xOPnXSGKQ1fQRPdw_ceY=/0x0:1700x2267/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/o/u/ESwgMPSfANq2T100KYlA/policial.jpg" alt="policial que foi furtado" width="300" height="280"></a>
+    <p style="color: aqua; font-size: small;">clique na imagem para ler a noticia</p>
+    <h4 style="background-color: aliceblue; font-size: 20px;">Policial de trânsito de cartolina é furtado na Escócia.</h4>
+<hr>
+
+    <h1></h1>
+    <a target="_blank" href="https://g1.globo.com/planeta-bizarro/noticia/2019/07/05/policia-dos-eua-busca-suspeito-que-postou-selfie-no-stories-da-vitima-usando-celular-roubado.ghtml"> <img src="https://s2-g1.glbimg.com/W5orib2Ch7gfK5JTDujkyTwELtw=/0x0:1700x2939/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/4/8/tYuzAkS2as7PoOmfMlDg/selfie.jpg" alt="Tirando uma selfie com o celular roubado" height="280" width="300"></a>
+    <p style="color: aqua; font-size: small;">clique na imagem para ler a noticia</p>
+    <h4 style="background-color: aliceblue; font-size: 20px;">Polícia dos EUA busca suspeito que postou selfie no stories da vítima usando celular roubado.</h4>
+<hr>
+
+<a href="pagina.html">Voltar para a pagina inicial</a>
+
+    <h3 style="background-color: blueviolet;">Desenvolvido por:</h3>
+    <ul style="color: aliceblue; background-color: blueviolet;">
+        <li>Gilton José Freitas da Silva Junior</li>
+        <li>PIVETÃO </li>
+    </ul>
+
+
+</body>
+</html>
+-----------------------------------------------------------------
